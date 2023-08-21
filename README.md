@@ -3,9 +3,9 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## Estos cambios son nuevos
+## Estos cambios estan en revision
 
-Hechos desde el repositorio local
+Preciso sabes desde donde hacerlos de forma remota o local
 
 ## Estos cambios tambien son nuevos
 
